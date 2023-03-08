@@ -1,0 +1,113 @@
+* {
+  color: #d2cccc;
+}
+header nav {
+  position: fixed;
+  width: 100%;
+  background: #000000;
+}
+.fas,
+.far {
+  color: #fff;
+}
+sup {
+  color: #d2cccc;
+}
+.porfile-img img {
+  border-radius: 50px;
+}
+.search_bar input {
+  background: #000000;
+  border-radius: 50px;
+  border: 1px solid hsl(0deg 0% 19%);
+  width: 600px;
+  height: 40px;
+  color: #fff;
+}
+.search_bar input:focus {
+  border: 1px solid hsl(0deg 0% 19%);
+}
+.search-btn {
+  border: 1px solid hsl(0deg 0% 19%);
+  background-color: hsl(0, 1%, 15%);
+  border-radius: 0 40px 40px 0;
+  cursor: pointer;
+  height: 40px;
+  width: 64px;
+  position: relative;
+  right: 64px;
+  text-align: center;
+  color: #f1f1f1;
+}
+.fa-search {
+  padding-top: 11px;
+}
+.header {
+  background-image: url("../img/background.PNG");
+  background-repeat: no-repeat;
+  padding-top: 5px;
+  height: 265px;
+}
+.about img {
+  border-radius: 100px;
+  height: 130px;
+  width: 130px;
+}
+.about h4 {
+  color: #f0f8ff;
+}
+.about .btn-light {
+  border-radius: 50px !important;
+}
+.tabs div {
+  font-weight: 500;
+  cursor: pointer;
+}
+.tabs div:hover {
+  color: #f0f8ff;
+}
+.tabs .active {
+  color: #f0f8ff;
+}
+.vedios a {
+  text-decoration: none;
+}
+.vedios p {
+  color: #f0f8ff;
+  font-weight: 500;
+}
+.vedios span {
+  font-size: 12px;
+}
+.fa-ellipsis-v {
+  font-size: 10px;
+}
+.player-container {
+  width: 100%;
+}
+.sideBar {
+  font-size: 10px;
+}
+.sideBar .d-flex p {
+  color: #f0f8ff;
+  font-size: 14px;
+  font-weight: 500;
+}
+.profile-img img {
+  height: 50px;
+  width: 50px;
+  border-radius: 100px;
+}
+.player .btn-transparent,
+.btn-light {
+  border-radius: 50px !important;
+}
+.player h5{
+  color: #f0f8ff;
+}
+.btns div {
+  margin: 5px 10px;
+}
+.tags div {
+  margin: 0 5px;
+}
