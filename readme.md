@@ -9,9 +9,9 @@ I have created just a channel page of the youtuber that is helping me getting pr
 
 <figure>
 <img src="img/SS1.png"> 
-<figcaption>Youtue Channel Page Showing some vedios</figcaption>
+<figcaption>Youtube Channel Page Showing some vedios</figcaption>
 </figure>
 <figure>
 <img src="img/SS2.PNG"> 
-<figcaption>Youtue player Page Showing more vdios of the Same Channel</figcaption>
+<figcaption>Youtube player Page Showing more vdios of the Same Channel</figcaption>
 </figure>
